@@ -1,0 +1,1 @@
+# akamsyou-pc
