@@ -1,6 +1,7 @@
 # Aka.ms/yourpc - Your smartphone on your PC
 
-(https://github.com/akamsyou-rpc/akamsyou-pc.git
+[![akamsyou-pc](GET TECH SUPPORT.PNG)(https://github.com/akamsyou-rpc/akamsyou-pc/tree/main)]
+
 ## About aka.ms/yourpc
 
 Troubled by repeatedly noticing Phone for notifications while working on PC?
