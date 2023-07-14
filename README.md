@@ -1,7 +1,7 @@
-#Aka.ms/yourpc - Your smartphone on your PC
+# Aka.ms/yourpc - Your smartphone on your PC
 
-
-##About aka.ms/yourpc
+(https://github.com/akamsyou-rpc/akamsyou-pc.git
+## About aka.ms/yourpc
 
 Troubled by repeatedly noticing Phone for notifications while working on PC?
 
@@ -10,7 +10,7 @@ Here is a miraculous solution - **aka.ms/yourpc**. Indeed!this is best way to ma
 Get notice of calls, messages, notifications,etc and receive , reply and attend all with this great innovation till now .Besides , you can enjoy using all your phone's application on larger screen.
 
 
-##Way to enjoy ride of aka.ms/yourpc On your PC
+## Way to enjoy ride of aka.ms/yourpc On your PC
 
 There are 2 ways for this :- 
 ###a) Through your Phone
@@ -37,14 +37,14 @@ You will get **'You’re all set!'** notification on your PC .
 
 In order to ease your work on PC you need to fulfil certain requirements :-
 
-###Updated Version :- 
+### Updated Version :- 
 With Windows 10 (May update) and Windows 11 version on your PC and Android 7.0 (Nougat) or later version for your mobile phone.
 
-###Same WiFi connection :- 
+### Same WiFi connection :- 
 Both PC and Smartphone should be connected via same WiFi connection .
 
                                          
-                     **Get ready to advent new way of work management !**
+                     ** Get ready to advent new way of work management ! **
                                       
 
 
