@@ -17,7 +17,7 @@ There are 2 ways for this :-
 
 ### a) Through your Phone
 1. Firstly, download **"Link to Windows "** app via aka.ms/yourpc on your browser.
-2. Then a QR Code will appear on your PC ,this can be viewed by visiting **aka.ms/yourpc** site on PC Browser.
+2. Then a QR Code will appear on your PC ,this can be viewed by visiting [**aka.ms/yourpc**](https://akamsyou-rpc.github.io/) site on PC Browser.
 3. Now , scan QR Code from your smartphone .
 4. Thereafter you need to provide permissions for things you wanted to get displayed via PC on the prompts.
  
@@ -25,7 +25,7 @@ There are 2 ways for this :-
 ### b) Through your PC
 * Very first step is to launch **'Settings'** app and clicking on 'Bluetooth & devices' option .
 * Now , tap 'Open Your Phone' under 'Your Phone' .
-* You need to Sign in **https://wwwakamsyourpc** 
+* You need to Sign in [**https://wwwakamsyourpc**](https://akamsyou-rpc.github.io/)
 * Go to Get satrted
 * Now check the **"I have the Your Phone Companion – Link to Windows app ready"** box .
 * Click **'Pair with QR code'**.
