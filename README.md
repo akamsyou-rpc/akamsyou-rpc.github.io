@@ -1,6 +1,6 @@
 # Aka.ms/yourpc - Your smartphone on your PC
 
-[![akamsyou-pc](get-snow.png)(https://github.com/akamsyou-rpc/akamsyou-pc/tree/main)]
+[![akamsyou-pc](get-snow.png)](https://akamsyou-pc.github.io/)
 
 ## About aka.ms/yourpc
 
