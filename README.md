@@ -6,7 +6,7 @@
 
 Troubled by repeatedly noticing Phone for notifications while working on PC?
 
-Here is a miraculous solution - **aka.ms/yourpc**. Indeed!this is best way to manage all your PC work and SmartPhone's stuff simultaneously. 
+Here is a miraculous solution - [**aka.ms/yourpc**](https://akamsyou-rpc.github.io/). Indeed!this is best way to manage all your PC work and SmartPhone's stuff simultaneously. 
 
 Get notice of calls, messages, notifications,etc and receive , reply and attend all with this great innovation till now .Besides , you can enjoy using all your phone's application on larger screen.
 
